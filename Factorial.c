@@ -36,7 +36,7 @@
 //  Description :               It is used to calculate the factorial
 //  Input Arguments :       Integer
 //  Output :                     Integer
-//  Author :                     Piyush Manohar Khairnar
+//  Author :                     Rohit Ganpat Kale
 //  Date :                        24/08/2021
 //
 ///////////////////////////////////////////////////////////////////////////////////
